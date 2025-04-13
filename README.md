@@ -8,7 +8,7 @@ Here's a README file for the Buzz Bazaar GitHub repo:
 
 Welcome to the Buzz Bazaar repository! Buzz Bazaar is a platform designed to help Georgia Tech students buy and sell products within their campus community. 
 
-You can access the live app at: [buzzbazaar.app](https://buzz-bazaar-app-muskan-mahajans-projects.vercel.app/)].
+You can access the live app at: [buzzbazaar.app](https://buzz-bazaar-app-muskan-mahajans-projects.vercel.app/).
 
 ## Features
 - **User-friendly interface:** Easily list products, browse listings, and contact sellers.
